@@ -1,0 +1,184 @@
+
+[et_pb_section 
+	fb_built="1" fullwidth="on" 
+	admin_label="Yta för omslagsbild" 
+	_builder_version="3.25.3" 
+	fb_built="1" _i="0" _address="0"
+]
+
+
+	[et_pb_fullwidth_image 
+		src="http://ktmp.se/arty/wp-content/uploads/hdr-IMG_20190909_165654.jpg" 
+		admin_label="Omslagsbild" 
+		_builder_version="3.27.4" 
+		z_index_tablet="500" 
+		_i="0" _address="0.0"
+		]
+		
+	[/et_pb_fullwidth_image]
+	
+	[/et_pb_section]
+
+	[et_pb_section 
+		fb_built="1" 
+		specialty="on" 
+		admin_label="Information om konstnär" 
+		_builder_version="3.25.3" 
+		background_color="rgba(0,0,0,0)" 
+		custom_margin="|||" 
+		custom_padding="0px|0px|0px|0px" 
+		fb_built="1" 
+		_i="1" _address="1"
+	]
+	
+		[et_pb_column 
+			type="1_2" 
+			specialty_columns="2" 
+			_builder_version="3.25" 
+			custom_padding="|||" 
+			custom_padding__hover="|||" _i="0" 
+			_address="1.0"
+		]
+			[et_pb_row_inner 
+				custom_padding_last_edited="on|desktop" 
+				_builder_version="3.25" 
+				background_color="#ffffff" 
+				custom_margin="-200px||80px|" 
+				custom_margin_tablet="-150px||80px|" 
+				custom_margin_phone="0px||80px|" 
+				custom_margin_last_edited="on|phone" 
+				custom_padding="60px|60px|60px|60px" 
+				custom_padding_phone="|40px||40px" 
+				box_shadow_style="preset3" 
+				box_shadow_vertical="15px" 
+				box_shadow_blur="80px" _i="0"
+				_address="1.0.0"
+			]
+				[et_pb_column_inner 
+					saved_specialty_column_type="1_2" 
+					_builder_version="3.25" 
+					custom_padding="|||" 
+					custom_padding__hover="|||" 
+					_i="0" _address="1.0.0.0"
+				]
+				
+					[et_pb_text 
+						admin_label="Namn" 
+						_builder_version="3.27.4" 
+						header_font="|700||on|||||" 
+						header_letter_spacing="1px" 
+						header_line_height="1.4em" 
+						text_orientation="center" 
+						max_width="550px" module_alignment="center" custom_margin="|||" 
+						z_index_tablet="500" locked="off" _i="0" 
+						_address="1.0.0.0.0"
+					]
+						<h1>Ann-Kristin Isnes</h1>
+						<em>Konstnär</em>
+					[/et_pb_text]
+					
+					[et_pb_code 
+						module_class="mystile" _i="1" _address="1.0.0.0.1"
+					]
+						<hr />
+					[/et_pb_code]
+					[et_pb_image 
+						align="center" align_tablet="center" align_last_edited="on|desktop" _builder_version="3.23" 
+						z_index_tablet="500" _i="2" _address="1.0.0.0.2"
+					]
+					[/et_pb_image]
+					[et_pb_text 
+						admin_label="Om mig" _builder_version="3.27.4" z_index_tablet="500" _i="3" _address="1.0.0.0.3"
+					]
+						<h3 style="text-align: center;">Om mig</h3>
+					[/et_pb_text]
+					[et_pb_text admin_label="Text %22Om mig%22" _builder_version="3.27.4" z_index_tablet="500" _i="4" _address="1.0.0.0.4"
+					]
+						Jeg er ei dame på 44 år som alltid har likt å bruke hendene til å lage forskjellig. Som barn brukte jeg ukepengene på div 
+						håndverksartikler og testet ut nye metoder. Startet og tegne mennesker og natur i sort/hvitt som tenåring og etterhvert kom lysten til
+						å male. Jeg var heldig og fikk begynne i lære hos to lokale kunstnere som har lært av Per Lundgren og Odd Nerdrum. 
+						Der lærte jeg hele prosessen fra å lage egne blindrammer til kull tegning og til ferdige olje malerier.
+
+						Her lærte jeg utrolig mye og fant det utrolig spennende og lære å male "på den gamle måten". Etter en stund fikk jeg lyst til 
+						å utforske nye teknikker og gikk 1 år på høyskolen, kunst og håndverk. Planen var å omskolere meg til håndverkslærer,
+						dessverre måtte jeg avbryte den utdannelsen som lærer pga sykdom. Men er glad for det året hvor jeg gjorde dypdykk i forskjellige
+						teknikker. Etter noen års pause pga sykdom, er planen å starte å produsere kunst igjen.
+					[/et_pb_text]
+				[/et_pb_column_inner]
+			[/et_pb_row_inner]
+		[/et_pb_column]
+		[et_pb_column 
+			type="1_2" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||" _i="1" _address="1.1"
+		]
+			[et_pb_blurb 
+				title="Plats:" use_icon="on" font_icon="%%122%%" icon_color="#ffffff" use_circle="on" circle_color="#edbb5f" 
+				icon_placement="left" animation="off" text_orientation="center" use_icon_font_size="on" icon_font_size="24px" 
+				admin_label="Plats:" _builder_version="3.27.4" header_font="|700||on|||||" header_text_color="rgba(0,0,0,0.4)" 
+				header_font_size="12px" header_letter_spacing="1px" body_text_color="#000000" body_letter_spacing="1px" 
+				body_line_height="1.8em" custom_margin="||40px|" animation_style="zoom" animation_intensity_zoom="30%" 
+				z_index_tablet="500" border_style_all="dashed" locked="off" _i="0" _address="1.1.0"]Norge
+			[/et_pb_blurb]
+			[et_pb_blurb title="Kontakt: " use_icon="on" font_icon="%%153%%" icon_color="#ffffff" use_circle="on" 
+				circle_color="#edbb5f" icon_placement="left" animation="off" text_orientation="center" 
+				use_icon_font_size="on" icon_font_size="24px" admin_label="Kontaktuppgifter: " 
+				_builder_version="3.22.6" header_font="|700||on|||||" header_text_color="rgba(0,0,0,0.4)" 
+				header_font_size="12px" header_letter_spacing="1px" body_text_color="#000000" 
+				body_letter_spacing="1px" body_line_height="1.8em" custom_margin="||40px|" 
+				animation_style="zoom" animation_intensity_zoom="30%" z_index_tablet="500" 
+				border_style_all="dashed" locked="off" _i="1" _address="1.1.1"
+			]
+				<a href="#kontakt">Kontakta</a>
+			[/et_pb_blurb]
+			[et_pb_blurb 
+				title="Utbildning:" use_icon="on" font_icon="%%127%%" icon_color="#ffffff" use_circle="on" circle_color="#edbb5f" 
+				icon_placement="left" animation="off" text_orientation="center" use_icon_font_size="on" icon_font_size="24px" 
+				admin_label="Utbildning" _builder_version="3.27.4" header_font="|700||on|||||" header_text_color="rgba(0,0,0,0.4)" 
+				header_font_size="12px" header_letter_spacing="1px" body_text_color="#000000" body_letter_spacing="1px" 
+				body_line_height="1.8em" custom_margin="||40px|" animation_style="zoom" animation_intensity_zoom="30%" 
+				z_index_tablet="500" border_style_all="dashed" _i="2" _address="1.1.2"
+			]1åt høyskole kunst og håndverks linje og 4 år i lære hos Elisabeth Gyllensten og Geir Stahl.[/et_pb_blurb][et_pb_blurb title="Teknik:" use_icon="on" font_icon="%%75%%" icon_color="#ffffff" use_circle="on" circle_color="#edbb5f" icon_placement="left" animation="off" text_orientation="center" use_icon_font_size="on" icon_font_size="24px" admin_label="Teknik:" _builder_version="3.27.4" header_font="|700||on|||||" header_text_color="rgba(0,0,0,0.4)" header_font_size="12px" header_letter_spacing="1px" body_text_color="#000000" body_letter_spacing="1px" body_line_height="1.8em" custom_margin="||40px|" animation_style="zoom" animation_intensity_zoom="30%" z_index_tablet="500" border_style_all="dashed" _i="3" _address="1.1.3"]Klassisk Figurativ i olje på egen preparerte lerret i ekte lin.
+Kull og tegning.
+Akryl og mixed media.
+Jeg liker å gjøre forskjellige ting, utforske forskjellige teknikker.
+[/et_pb_blurb]
+[et_pb_blurb title="Inspirationskällor:" use_icon="on" font_icon="%%375%%" icon_color="#ffffff" use_circle="on" circle_color="#edbb5f" 
+icon_placement="left" animation="off" text_orientation="center" use_icon_font_size="on" icon_font_size="24px" 
+admin_label="Inspirationskällor:" _builder_version="3.27.4" header_font="|700||on|||||" header_text_color="rgba(0,0,0,0.4)" 
+header_font_size="12px" header_letter_spacing="1px" body_text_color="#000000" body_letter_spacing="1px" body_line_height="1.8em" 
+custom_margin="||40px|" animation_style="zoom" animation_intensity_zoom="30%" z_index_tablet="500" border_style_all="dashed" 
+_i="4" _address="1.1.4"]Johnny Andvik, Odd Nerdrum, Elisabeth Gyllensten og Geir Stahl.[/et_pb_blurb]
+[/et_pb_column]
+[/et_pb_section]
+[et_pb_section 
+	fb_built="1" admin_label="Gallerisektion" _builder_version="3.25.3" background_color="#f4f4f4" custom_margin="||-15px|" 
+	fb_built="1" _i="2" _address="2"][et_pb_row module_class=" et_pb_row_fullwidth et_pb_row_fullwidth et_pb_row_fullwidth 
+	et_pb_row_fullwidth" _builder_version="3.25" width="89%" width_tablet="80%" width_last_edited="on|desktop" max_width="89%" 
+	max_width_tablet="80%" max_width_last_edited="on|desktop" make_fullwidth="on" _i="0" _address="2.0"][et_pb_column 
+	type="4_4" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||" _i="0" _address="2.0.0"
+]
+[et_pb_gallery 
+	gallery_ids="30301,30304,30303,30302,30307,30305,30306,30308" posts_number="40" orientation="portrait" 
+	show_title_and_caption="off" show_pagination="off" zoom_icon_color="#000000" _builder_version="3.27.4" z_index_tablet="500"
+	_i="0" _address="2.0.0.0"]
+[/et_pb_gallery]
+[/et_pb_column]
+[/et_pb_row]
+[/et_pb_section]
+[et_pb_section 
+	fb_built="1" 
+	admin_label="Kontaktsektion" module_id="kontakt" _builder_version="3.25.3" z_index_tablet="500" fb_built="1" _i="3" _address="3"
+]
+	[et_pb_row column_structure="1_5,3_5,1_5" _builder_version="3.25" background_size="initial" background_position="top_left" 
+		background_repeat="repeat" _i="0" _address="3.0"
+	]
+	[et_pb_column type="1_5" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||" _i="0" _address="3.0.0"
+	][/et_pb_column][et_pb_column type="3_5" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||" _i="1" 
+	_address="3.0.1"
+][et_pb_contact_form 
+		email="ann-kristin.isnes@hotmail.com, guide@battrekonst.se" 
+		title="Kontakta " 
+		custom_message="GRATTIS! Du har fått ett meddelande från %%Name%% via din portfolio på bättrekonst.se.||et_pb_line_break_holder||||et_pb_line_break_holder||MEDDELANDE:||et_pb_line_break_holder||||et_pb_line_break_holder||%%Message%%||et_pb_line_break_holder||||et_pb_line_break_holder||INFORMATION OM DIN FÖRFRÅGAN:||et_pb_line_break_holder||||et_pb_line_break_holder||E-post: %%Email%%||et_pb_line_break_holder||Telefonnummer: %%tele%%||et_pb_line_break_holder||Vad jag gör: %%Who_are_you%%||et_pb_line_break_holder||Intresserad av ett specifikt verk? %%Verk%%||et_pb_line_break_holder||" _builder_version="3.27.4" title_font="|700||on|||||" form_field_font="||||||||" z_index_tablet="500" _i="0" _address="3.0.1.0"][et_pb_contact_field field_id="Name" field_title="Namn" _builder_version="3.22.7" _i="0" _address="3.0.1.0.0"][/et_pb_contact_field][et_pb_contact_field field_id="Email" field_title="E-postadress" field_type="email" _builder_version="3.27.4" _i="1" _address="3.0.1.0.1"][/et_pb_contact_field][et_pb_contact_field field_id="Verk" field_title="Är du intresserad av ett specifikt verk?" field_type="radio" radio_options="%91{%22value%22:%22Ja%22,%22checked%22:0},{%22value%22:%22Vill gärna veta mer om ett verk. %22,%22checked%22:0},{%22value%22:%22Nej, inte just nu%22,%22checked%22:0}%93" _builder_version="3.22.7" _i="2" _address="3.0.1.0.2"][/et_pb_contact_field][et_pb_contact_field field_id="Who_are_you" field_title="Frågar du i form av privatperson, företag eller organisation?" field_type="radio" radio_options="%91{%22value%22:%22Privatperson%22,%22checked%22:0},{%22value%22:%22Gallerist%22,%22checked%22:0},{%22value%22:%22Företag%22,%22checked%22:0},{%22value%22:%22Organisation%22,%22checked%22:0},{%22value%22:%22Annat%22,%22checked%22:0}%93" _builder_version="3.25.3" _i="3" _address="3.0.1.0.3"][/et_pb_contact_field][et_pb_contact_field field_id="FB" field_title="Följer du Bättre Konst på Facebook?" field_type="radio" radio_options="%91{%22value%22:%22Ja%22,%22checked%22:0},{%22value%22:%22Nej%22,%22checked%22:0}%93" _builder_version="3.22.7" _i="4" _address="3.0.1.0.4"][/et_pb_contact_field][et_pb_contact_field field_id="tele" field_title="Telefonnummer: 004799482431" allowed_symbols="numbers" required_mark="off" _builder_version="3.27.4" _i="5" _address="3.0.1.0.5"][/et_pb_contact_field][et_pb_contact_field field_id="Message" field_title="Meddelande" field_type="text" fullwidth_field="on" _builder_version="3.22.7" _i="6" _address="3.0.1.0.6"][/et_pb_contact_field][/et_pb_contact_form][/et_pb_column][et_pb_column type="1_5" _builder_version="3.25" custom_padding="|||" custom_padding__hover="|||" _i="2" _address="3.0.2"
+]
+[/et_pb_column]
+[/et_pb_row]
+[/et_pb_section]
